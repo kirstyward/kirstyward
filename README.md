@@ -1,9 +1,10 @@
-### Hi there 👋 I'm Kirsty Weitzel
+# Hi there 👋 I'm Kirsty Weitzel
 
 I'm currently a Research Data Scientist at RTI International.
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirstyweitzel/) 
+
 📧 kirstyweitzel@gmail.com • 📍 Cary, NC USA
 
 <!--
