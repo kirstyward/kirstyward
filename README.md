@@ -5,8 +5,6 @@ I'm currently a Research Data Scientist at RTI International.
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirstyweitzel/) 
 
-📧 kirstyweitzel@gmail.com
-
 <!--
 **kirstyward/kirstyward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
